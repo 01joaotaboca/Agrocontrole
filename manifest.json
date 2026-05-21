@@ -1,0 +1,28 @@
+{
+  "name": "AgroPro Gestão Inteligente",
+  "short_name": "AgroPro",
+  "description": "Sistema de Receituário Técnico e Controle de Estoque Agrícola",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a2e10",
+  "theme_color": "#0a2e10",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
